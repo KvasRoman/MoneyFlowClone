@@ -10,3 +10,6 @@
 [submodule "services/transactions-service"]
 	path = services/transactions-service
 	url = https://github.com/KvasRoman/MoneyFlowClone-transactions-service.git
+[submodule "web-page"]
+	path = web-page
+	url = https://github.com/KvasRoman/MoneyFlowClone-web-page.git
