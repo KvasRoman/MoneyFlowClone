@@ -1,0 +1,12 @@
+[submodule "services/ai-assistant-service"]
+	path = services/ai-assistant-service
+	url = https://github.com/KvasRoman/MoneyFlowClone-ai-assistant-service.git
+[submodule "services/auth-service"]
+	path = services/auth-service
+	url = https://github.com/KvasRoman/MoneyFlowClone-auth-service.git
+[submodule "services/users-service"]
+	path = services/users-service
+	url = https://github.com/KvasRoman/MoneyFlowClone-users-service.git
+[submodule "services/transactions-service"]
+	path = services/transactions-service
+	url = https://github.com/KvasRoman/MoneyFlowClone-transactions-service.git
