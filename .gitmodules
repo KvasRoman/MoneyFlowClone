@@ -13,3 +13,6 @@
 [submodule "web-page"]
 	path = web-page
 	url = https://github.com/KvasRoman/MoneyFlowClone-web-page.git
+[submodule "services/api-gateway"]
+	path = services/api-gateway
+	url = https://github.com/KvasRoman/MoneyFlowClone-api-gateway.git
